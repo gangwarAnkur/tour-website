@@ -1,4 +1,4 @@
-# Travel website 2
+# Travel website 
 
 
- Travel website 2 (html,css,javascript)
+ Travel website  (html,css,javascript)
